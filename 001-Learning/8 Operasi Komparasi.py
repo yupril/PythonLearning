@@ -64,7 +64,7 @@ print('nilai y =,',y,'id = ',hex(id(y)))
 hasil = x is y
 print('x is y =', hasil)
 
-x = 5 #ini adalah assigment membuat pbject
+x = 5 #ini adalah assigment membuat object
 y = 7
 print("======is=======")
 print('nilai x =,',x,'id = ',hex(id(x)))
@@ -72,7 +72,7 @@ print('nilai y =,',y,'id = ',hex(id(y)))
 hasil = x is y
 print('x is y =', hasil)
 
-x = 5 #ini adalah assigment membuat pbject
+x = 5 #ini adalah assigment membuat object
 y = 7
 print("======is=======")
 print('nilai x =,',x,'id = ',hex(id(x)))
